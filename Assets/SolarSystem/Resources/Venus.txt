@@ -1,0 +1,45 @@
+﻿Afelio 0,728213 AU 108.939.000 km 
+Perihelio 0,718440 AU 107.477.000 km 
+Semieje mayor 0,723332 AU 108.208.000 km 
+Excentricidad 0,006772 
+Período orbital 224,701 0,615198 año 1,92 Venus día solar 
+Período sinódico 583,92 días 
+Velocidad orbital media 35,02 km/s 
+Anomalía media 50,115 
+Longitud del nodo ascendente 76,680 
+Argumento del perihelio 54,884 
+Satélites Ninguno 
+
+Venus es el segundo planeta desde el Sol, orbitándolo cada 224,7 días terrestres.
+ Tiene el período de rotación más largo (245 días) de todos los planetas del Sistema Solar,
+ y, excepcionalmente, gira en sentido contrario a la mayoría de los planetas.
+ No tiene ningún satélite natural. Debe su nombre a la diosa romana del amor y la belleza.
+ Después de la Luna, es el objeto natural más brillante del cielo nocturno. 
+ alcanza una magnitud aparente de -4,6, suficiente para proyectar sombras.
+ es un planeta inferior a la Tierra, nunca parece alejarse mucho del Sol:
+ su elongación alcanza un máximo de 47,8°.
+
+Venus es un planeta terrestre y a veces se le llama «planeta hermano» de la Tierra 
+debido a su tamaño, masa, proximidad al Sol y composición aparente similares.
+ En otros aspectos es radicalmente distinto de la Tierra. Tiene la atmósfera más densa
+ de los cuatro planetas terrestres, con más de un 96% de dióxido de carbono.
+ La presión atmosférica en la superficie del planeta es 92 veces superior a la de la Tierra. 
+ Con una temperatura media de 735 K (462 °C; 863 °F), Venus es, con diferencia, el planeta más caliente del Sistema Solar.
+ planeta más caliente del Sistema Solar, a pesar de que Mercurio está más cerca del Sol. 
+ Venus está cubierto por una capa opaca de nubes de ácido sulfúrico altamente reflectantes,
+ que impide ver su superficie desde el espacio con luz visible. Puede haber tenido
+ océanos en el pasado, pero se habrían evaporado al aumentar la temperatura 
+ debido al efecto invernadero. Lo más probable es que el agua se haya foto disociado, 
+ y, debido a la falta de un campo magnético planetario, el hidrógeno libre ha sido barrido
+ al espacio interplanetario por el viento solar. La superficie de Venus es un paisaje desértico seco 
+ intercalado con rocas en forma de losa y periódicamente aflorado por vulcanismo.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,29 @@
+﻿Afelio 152.100.000 km (94.500.000 mi) 
+Perihelio 147.095.000 km (91.401.000 mi) 
+Semieje mayor ,598.023 km (92.955.902 mi) 
+Excentricidad 0,0167086 
+Período orbital 365,256363004 d  
+Velocidad orbital media 29,78 km/s (107.200 km/h)  
+Anomalía media 358,617 
+Inclinación 7,155° respecto al ecuador solar 
+1,57869° respecto al plano invariable 
+0,00005° a la eclíptica J2000 
+Longitud del nodo ascendente -11,26064° respecto a la eclíptica J2000 
+Argumento del perihelio 114,20783°. 
+Satélites Un satélite natural 
+
+Tierra en griego Gaia, o en latín: Terra es el tercer planeta desde el Sol,
+ el más denso del Sistema Solar, el mayor de los cuatro planetas terrestres
+ del Sistema Solar y el único objeto astronómico que alberga vida.
+ 
+Según pruebas de datación radiométrica y otras fuentes,
+ la Tierra se formó hace unos 4.540 millones de años. La Tierra
+ interactúa con otros objetos del espacio, especialmente con el Sol y la Luna.
+ Durante una órbita alrededor del Sol, la Tierra gira sobre su propio eje 366,26 veces,
+ creando 365,26 días solares o un año sideral. El eje de rotación de la Tierra
+ está inclinado 23,4º con respecto a la perpendicular de su plano orbital, lo que produce variaciones estacionales en la superficie del planeta.
+ en la superficie del planeta con un período de un año tropical (365,24 días solares).
+ 
+ La Luna es el único satélite natural permanente de la Tierra. Su interacción gravitatoria
+ con la Tierra provoca mareas oceánicas, modifica la orientación del eje de rotación de la Tierra,
+ y reduce gradualmente la velocidad de rotación de la Tierra. 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1953259897 &8574412962073106934
+TerrainLayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Venus
+  m_DiffuseTexture: {fileID: 2800000, guid: 75a6bc40568f94d45958690885060cb5, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: 5fdbb92feafbd5845a396cbc9c2a0c52, type: 3}
+  m_MaskMapTexture: {fileID: 2800000, guid: db84704da3e345a4a8f1ff876f5be409, type: 3}
+  m_TileSize: {x: 2, y: 2}
+  m_TileOffset: {x: 0, y: 0}
+  m_Specular: {r: 0.6320754, g: 0.47103292, b: 0.12224099, a: 0}
+  m_Metallic: 0
+  m_Smoothness: 0
+  m_NormalScale: 1
+  m_DiffuseRemapMin: {x: 0, y: 0, z: 0, w: 0}
+  m_DiffuseRemapMax: {x: 1, y: 1, z: 1, w: 1}
+  m_MaskMapRemapMin: {x: 0, y: 0, z: 0, w: 0}
+  m_MaskMapRemapMax: {x: 1, y: 1, z: 1, w: 1}

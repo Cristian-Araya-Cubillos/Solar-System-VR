@@ -1,0 +1,22 @@
+# Archivos generados por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos de configuración específicos de usuario
+UserSettings/
+
+# Archivos específicos del editor
+.vscode/
+.idea/
+*.sln
+*.csproj
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini

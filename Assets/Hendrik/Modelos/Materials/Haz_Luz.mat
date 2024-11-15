@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Haz_Luz
+  m_Shader: {fileID: 4800000, guid: 37675a334fe9220488d4dc293ff501e2, type: 3}
+  m_Parent: {fileID: 2100000, guid: acdd309c6f9b8cc4b8185f85beab189a, type: 2}
+  m_ModifiedSerializedProperties: 2
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _EMISSION
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _Glossiness: 0.568
+    - _Intensity: 10
+    m_Colors:
+    - _Color: {r: 0, g: 0.5254902, b: 1, a: 1}
+    - _Emission: {r: 0, g: 1, b: 0.9532654, a: 1}
+    - _EmissionColor: {r: 0, g: 766.9961, b: 522.81, a: 1}
+  m_BuildTextureStacks: []

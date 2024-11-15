@@ -1,0 +1,27 @@
+﻿Afelio 49,319 UA (7.378,07 Gm) 
+Perihelio 29,656 UA (4.436,4 Gm) 
+Semieje mayor 39,54 UA (5.915 Gm) 
+Excentricidad 0,24905 
+Período orbital 248,00 años 90.581 d 
+Período sinódico 366,73 días 
+Velocidad orbital media 4,67 km/s 
+Anomalía media 14,53 grados 
+Inclinación 17,1405° (11,88° respecto al ecuador del Sol) 
+Longitud del nodo ascendente 110,299 
+Argumento del perihelio 113.834° 
+Satélites conocidos 5 
+
+Plutón (designación de planeta menor: 134340 Plutón) es un planeta enano del cinturón de Kuiper, un anillo de cuerpos situado más allá de Neptuno.
+Fue el primer objeto del cinturón de Kuiper descubierto.
+Es el planeta enano más grande y el segundo más masivo del Sistema Solar, y el noveno más grande y el décimo más masivo que orbita alrededor del Sol.
+Es el mayor objeto transneptuniano conocido por volumen, pero es menos masivo que Eris, un planeta enano del disco disperso. 
+
+Al igual que otros objetos del cinturón de Kuiper, Plutón está formado principalmente por hielo y roca y es relativamente pequeño: aproximadamente una sexta parte de la masa de la Luna terrestre y un tercio de su volumen.
+Su órbita, moderadamente excéntrica e inclinada, oscila entre 30 y 49 unidades astronómicas o UA (4.400-7.400 millones de km) desde el Sol.
+Esto significa que Plutón se acerca periódicamente al Sol más que Neptuno, pero una s le resonancia orbital con Neptuno impide que colisionen.
+La luz del Sol tarda unas 5,5 horas en llegar a Plutón a su distancia media (39,5 UA).
+
+Plutón fue descubierto por Clyde Tombaugh en 1930, y originalmente fue considerado el noveno planeta desde el Sol.
+A partir de 1992, su condición de planeta quedó en entredicho tras el descubrimiento de varios objetos de tamaño similar en el cinturón de Kuiper.
+En 2005 se descubrió Eris, un 27% más masivo que Plutón, lo que llevó a la Unión Astronómica Internacional (UAI) a definir formalmente el término «planeta» por primera vez al año siguiente.
+Esta definición excluyó a Plutón y lo reclasificó como miembro de la nueva categoría de «planeta enano».

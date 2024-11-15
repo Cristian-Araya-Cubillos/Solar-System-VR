@@ -1,0 +1,32 @@
+﻿Afelio 5,45492 UA (816,04 Gm) 
+Perihelio 4,95029 UA (740,55 Gm) 
+Semieje mayor 5,20260 UA (778,299 Gm) 
+Excentricidad 0,048498 
+Período orbital 11,8618 años 4.332,59 d  
+Período sinódico 398,88 d 
+Velocidad orbital media 13,07 km/s 
+Anomalía media 20,020 
+Inclinación 1,303° respecto a la eclíptica 
+6,09° respecto al ecuador solar 
+0,32° respecto al plano invariable 
+Longitud del nodo ascendente 100,464 
+Argumento del perihelio 273,867 
+Satélites conocidos 67 (a partir de 2014) 
+
+Júpiter es el quinto planeta desde el Sol y el mayor del Sistema Solar.
+ Es un planeta gigante con una masa una milésima mayor que la del Sol, pero dos veces y media mayor que la de todos los demás planetas.
+ y media la de todos los demás planetas del Sistema Solar juntos.
+ Júpiter es un gigante gaseoso, junto con Saturno. (Urano y Neptuno son gigantes de hielo). 
+ Júpiter era conocido por los astrónomos de la antigüedad. Los romanos le dieron el nombre de su dios Júpiter.
+ Visto desde la Tierra, Júpiter puede alcanzar una magnitud aparente de -2,94, lo suficientemente brillante como para que su luz reflejada proyecte sombras.
+ lo suficientemente brillante como para que su luz reflejada proyecte sombras y sea, por término medio, el tercer objeto más brillante del cielo nocturno después de la Luna y Venus.
+ 
+Júpiter está compuesto principalmente de hidrógeno y una cuarta parte de su masa es helio,
+aunque el helio sólo constituye una décima parte del número de moléculas. También puede tener un núcleo rocoso de elementos más pesados,
+ pero, al igual que los demás planetas gigantes, Júpiter carece de una superficie sólida bien definida. Debido a su rápida rotación,
+ La forma del planeta es la de un esferoide oblato (tiene una ligera pero notable protuberancia alrededor del ecuador). 
+ La atmósfera exterior está visiblemente segregada en varias bandas a distintas latitudes, lo que provoca turbulencias y tormentas a lo largo de sus límites interactivos.
+ Destaca la Gran Mancha Roja, una tormenta gigante conocida al menos desde el siglo XVII, cuando se observó por primera vez con un telescopio.
+ Júpiter está rodeado por un débil sistema de anillos planetarios y una potente magnetosfera. 
+ Júpiter tiene al menos 67 lunas, incluidas las cuatro grandes lunas galileanas descubiertas por Galileo Galilei en 1610. 
+ Ganímedes, la mayor de ellas, tiene un diámetro superior al del planeta Mercurio.

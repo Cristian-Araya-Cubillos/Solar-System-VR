@@ -1,0 +1,31 @@
+﻿Características orbitales  
+Periapsis 664862 km 
+Apoapsis 676938 km 
+Radio medio de la órbita 670900 km 
+Excentricidad 0,009 
+Período orbital 3,551181 d 
+Velocidad orbital media 13,740 km/s 
+Inclinación 0,470° (respecto al ecuador de Júpiter) 1,791° (respecto a la eclíptica) 
+Satélite de Júpiter  
+
+Características físicas  
+
+Radio medio 1560,8±0,5 km (0,245 Tierras) 
+Superficie 3,09×107 km2 (0,061 Tierras) 
+Volumen 1,593×1010 km3 (0,015 Tierras) 
+Masa (4,799844±0,000013)×1022 kg (0,008 Tierras) 
+Densidad media 3,013±0,005 g/cm3 
+
+Europa (Júpiter II), es la sexta luna más cercana de Júpiter y el más pequeño de sus cuatro satélites galileanos, pero aún así la sexta luna más grande del Sistema Solar.
+ Europa fue descubierta en 1610 por Galileo Galilei y debe su nombre a Europa, madre del rey Minos de Creta, que se convirtió en una de las amantes de Zeus.
+ A lo largo de los siglos, los telescopios terrestres y los sobrevuelos de sondas espaciales, a partir de la década de 1970, han ido mejorando progresivamente las observaciones de Europa.
+
+Europa, algo más pequeña que la Luna, está formada principalmente por rocas silicatadas, tiene una corteza de hielo y agua y, probablemente, un núcleo de hierro y níquel.
+Su atmósfera es tenue y está compuesta principalmente de oxígeno. Su superficie está estriada por grietas y estrías, mientras que los cráteres son relativamente escasos. 
+Su superficie es la más lisa de todos los objetos sólidos conocidos del Sistema Solar. 
+
+La aparente juventud y lisura de la superficie han llevado a la hipótesis de que bajo ella existe un océano de agua, que podría servir de morada a la vida extraterrestre. 
+Esta hipótesis propone que el calor procedente de la flexión de las mareas hace que el océano permanezca líquido e impulsa una actividad geológica similar a la de las placas tectónicas. 
+El 8 de septiembre de 2014, la NASA informó del hallazgo de pruebas que apoyaban sugerencias anteriores de tectónica de placas en la gruesa capa de hielo de Europa, el primer indicio de tal actividad geológica en un mundo distinto de la Tierra. 
+El 12 de mayo de 2015, los científicos anunciaron que la sal marina de un océano subsuperficial puede estar recubriendo algunas características geológicas de Europa, lo que sugiere que el océano está interactuando con el fondo marino. 
+Esto puede ser importante para determinar si Europa podría albergar vida.

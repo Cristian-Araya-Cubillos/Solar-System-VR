@@ -1,0 +1,31 @@
+﻿Afelio 30,33 UA (4.540 Gm) 
+Perihelio 29,81 UA (4.460 Gm) 
+Semieje mayor 30,110387 UA (4.504,45 Gm) 
+Excentricidad 0,009456 
+Período orbital 164,8 años 60.182 días 89.666 días solares neptunianos 
+Período sinódico 367,49 días 
+Velocidad orbital media 5,43 km/s 
+Anomalía media 256,228 
+Inclinación 1,767975° respecto a la eclíptica 
+6,43° respecto al ecuador solar
+0,72° respecto al plano invariable
+Longitud del nodo ascendente 131,784 
+Argumento del perihelio 276,336° 
+Satélites conocidos 14 
+
+Neptuno es el octavo planeta conocido y el más alejado del Sol. 
+Es el cuarto planeta más grande en diámetro y el tercero en masa.
+Entre los planetas gigantes del Sistema Solar, Neptuno es el más denso. 
+Neptuno tiene 17 veces la masa de la Tierra y es ligeramente más masivo que su casi gemelo Urano,
+que tiene 15 veces la masa de la Tierra y es ligeramente mayor que Neptuno. 
+Neptuno orbita alrededor del Sol a una distancia media de 30,1 unidades astronómicas (4,50×109 km).
+Recibe su nombre del dios romano del mar y su símbolo astronómico es ♆, una versión estilizada del tridente del dios Neptuno.
+
+Neptuno no es visible a simple vista y es el único planeta del Sistema Solar encontrado
+hasta ahora por predicción matemática y no por observación empírica. Cambios inesperados
+en la órbita de Urano llevaron a Alexis Bouvard a deducir que su órbita estaba sujeta a una perturbación gravitatoria por un planeta desconocido.
+gravitatoria de un planeta desconocido. Posteriormente, el 23 de septiembre de 1846, Johann Galle observó Neptuno con un telescopio
+por Johann Galle, a menos de un grado de la posición prevista por Urbain Le Verrier. Su luna más grande, Tritón, 
+fue descubierta poco después, aunque ninguna de las 14 lunas restantes conocidas del planeta fue localizada telescópicamente
+hasta el siglo XX. La distancia del planeta a la Tierra le confiere un tamaño aparente muy pequeño, lo que dificulta su estudio con telescopios terrestres.
+estudiarlo con telescopios terrestres. Neptuno fue visitado por la sonda Voyager 2 el 25 de agosto de 1989.

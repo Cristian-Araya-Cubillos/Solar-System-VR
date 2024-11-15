@@ -1,0 +1,27 @@
+﻿Afelio 10,086 UA (1.509 Gm) 
+Perihelio 9,024 UA (1.350 Gm) 
+Semieje mayor 9,554909 UA 1.429,39 Gm 
+Excentricidad 0,05555 
+Período orbital 29,4571 años 24.491,07 días solares saturnianos 
+Período sinódico 378,09 días 
+Velocidad orbital media 9,69 km/s 
+Anomalía media 317,020 
+Inclinación 2,485240° respecto a la eclíptica 5,51° respecto al ecuador solar 
+Longitud del nodo ascendente 113,665 
+Argumento del perihelio 339,392° 
+Satélites conocidos 62 con designaciones formales; innumerables lunaciones adicionales. 
+
+Saturno es el sexto planeta desde el Sol y el segundo más grande del Sistema Solar, después de Júpiter.
+ Es un gigante gaseoso con un radio medio unas nueve veces mayor que el de la Tierra.
+ Aunque su densidad media es sólo una octava parte de la de la Tierra, con su mayor volumen Saturno es algo más de 95 veces más masivo.
+ Saturno recibe su nombre del dios romano de la agricultura; su símbolo astronómico (♄) representa la hoz del dios.
+ 
+El interior de Saturno está compuesto probablemente por un núcleo de hierro-níquel y roca (compuestos de silicio y oxígeno).
+ Este núcleo está rodeado por una capa profunda de hidrógeno metálico, una capa intermedia de hidrógeno líquido y helio líquido, 
+ y finalmente, fuera de la línea de Frenkel, una capa exterior gaseosa. Saturno tiene un tono amarillo pálido debido a los cristales de amoníaco
+ en su atmósfera superior. Se cree que la corriente eléctrica dentro de la capa de hidrógeno metálico da lugar al campo magnético planetario de Saturno.
+ El campo magnético planetario de Saturno es más débil que el de la Tierra, pero tiene un momento magnético 580 veces superior al de la Tierra debido a su mayor tamaño. 
+ La intensidad del campo magnético de Saturno es aproximadamente la vigésima parte del de Júpiter. La atmósfera exterior es en general anodina y carente de contraste,
+ aunque pueden aparecer rasgos de larga duración. La velocidad del viento en Saturno puede alcanzar los 1.800 km/h (500 m/s), superior a la de Júpiter,
+ pero no tanto como en Neptuno.
+ 

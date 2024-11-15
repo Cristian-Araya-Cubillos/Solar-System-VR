@@ -1,0 +1,31 @@
+﻿Afelio 0,466 697 UA 69.816.900 km 
+Perihelio 0,307 499 AU 46.001.200 km 
+Semieje mayor 0,387 098 UA 57.909.050 km 
+Excentricidad 0,205 630 
+Período orbital 87,969 1 d 0,240 846 años  
+Período sinódico 115,88 d 
+Velocidad orbital media 47,362 km/s 
+Anomalía media 174,796 
+Inclinación 7,005° respecto a la eclíptica 3,38° respecto al ecuador solar 
+6,34° respecto al plano invariable 
+Longitud del nodo ascendente 48,331 
+
+Argumento del perihelio 29.124° 
+
+Satélites Ninguno  
+
+Mercurio es uno de los cuatro planetas terrestres del Sistema Solar, 
+ y es un cuerpo rocoso como la Tierra. Es el planeta más pequeño del 
+ Sistema Solar, con un radio ecuatorial de 2.439,7 kilómetros.
+ Mercurio también es más pequeño -aunque más masivo- que los satélites naturales más grandes del Sistema Solar. 
+ del Sistema Solar, Ganímedes y Titán. Mercurio está formado por 
+ aproximadamente un 70% de material metálico y un 30% de silicato. Su densidad es la 
+ del Sistema Solar, con 5,427 g/cm3, sólo ligeramente inferior a la de la Tierra, de 5,515 g/cm3.  
+ de la Tierra, de 5,515 g/cm3. Si se tuviera en cuenta el efecto de la compresión gravitatoria 
+ los materiales de los que está hecho Mercurio serían más densos,
+ con una densidad sin comprimir de 5,3 g/cm3 frente a los 4,4 g/cm3 de la Tierra. 
+
+La densidad de Mercurio puede utilizarse para inferir detalles de su estructura interna.
+ Aunque la alta densidad de la Tierra se debe en gran medida a la compresión gravitatoria,
+ Mercurio es mucho más pequeño y sus regiones internas no están tan comprimidas. 
+Por tanto, para que tenga una densidad tan alta, su núcleo debe ser grande y rico en hierro.

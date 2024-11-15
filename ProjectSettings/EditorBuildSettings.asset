@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SolarSystem/Scenes/MainMob.unity
+    guid: c782384e53e2d7d4daada316ed144ed9
+  - enabled: 0
+    path: Assets/SolarSystem/Scenes/Main.unity
+    guid: e8ba99d3ea1d41b4fb8864460bd62b6d
+  - enabled: 0
+    path: Assets/SolarSystem/Scenes/Main_URP.unity
+    guid: 9c9aab2196c3a75408b52db4f7f4c136
+  - enabled: 0
+    path: Assets/SolarSystem/Scenes/Main_HDRP.unity
+    guid: 9cd9c654968160e468c5e8761761a4e1
+  - enabled: 0
+    path: Assets/SolarSystem/Scenes/Main_URP_Cartoon.unity
+    guid: 76396835436f4d84eb9c2dfd71a56840
+  - enabled: 0
+    path: Assets/SolarSystem/Scenes/mAIN 3.unity
+    guid: e25696312beb38343ba48bf3441464ed
+  - enabled: 0
+    path: Assets/SolarSystem/Scenes/Main 2.unity
+    guid: d14f966de568c0647b4e23914680f9d4
+  - enabled: 1
+    path: Assets/Main 1.unity
+    guid: 8c362201e90943348a6adc780e9184b3
+  - enabled: 1
+    path: Assets/Hendrik/Scenes/T_Merc.unity
+    guid: e1b07ec2d4153c0439599f7f37c7ca60
+  - enabled: 1
+    path: Assets/Hendrik/Scenes/luna.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Hendrik/Scenes/marte.unity
+    guid: 61217bc9cbe7dfd419d47f6267cb8984
+  - enabled: 1
+    path: Assets/Hendrik/Scenes/mercurio.unity
+    guid: 8725d83d692ce4a409543a2c348f20cf
+  - enabled: 1
+    path: Assets/Hendrik/Scenes/Scene2.unity
+    guid: 61712c48f3a8a1840a23bd834f080ea4
+  - enabled: 1
+    path: Assets/Hendrik/Scenes/T_Jup.unity
+    guid: 2e69f9fe963b41f4cb371b51188d0c17
+  - enabled: 1
+    path: Assets/Hendrik/Scenes/T_Luna.unity
+    guid: cdca0dbe6b66ebe4aa896ab1a731cc40
+  - enabled: 1
+    path: Assets/Hendrik/Scenes/T_Mars.unity
+    guid: 5194bdb40e82e8c4bbcb16e43fab9028
+  - enabled: 1
+    path: Assets/Hendrik/Scenes/T_Venus.unity
+    guid: e87ef761e8876f74bad436672d259a1e
+  - enabled: 1
+    path: Assets/Hendrik/Scenes/venus.unity
+    guid: 45d87d60ca1de8f469f849289c357167
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 12421a8b6370bdb4bbd425629151ff1b,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cbfccc995b8efd4429a17c362d5f86ca,
+      type: 2}

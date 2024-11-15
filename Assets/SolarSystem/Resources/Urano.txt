@@ -1,0 +1,28 @@
+﻿Afelio 20,11 UA (3.008 Gm) 
+Perihelio 18,33 UA (2.742 Gm) 
+Semieje mayor 19,2184 UA (2.875,04 Gm) 
+Excentricidad 0,046381 
+Período orbital 84,0205 años 42.718 días solares uranianos 
+Período sinódico 369,66 días 
+Velocidad orbital media 6,80 km/s 
+Anomalía media 142,238600 
+Inclinación 0,773° respecto a la eclíptica 
+6,48° respecto al ecuador solar 
+Longitud del nodo ascendente 74,006 
+Argumento del perihelio 96,998857° 
+Satélites conocidos 27 
+
+Urano es el séptimo planeta desde el Sol. Tiene el tercer mayor radio planetario y la cuarta mayor masa planetaria del Sistema Solar. 
+La composición de Urano es similar a la de Neptuno, y ambos tienen una composición química en masa diferente a la de los gigantes gaseosos Júpiter y Saturno. 
+Por este motivo, los científicos suelen clasificar a Urano y Neptuno como «gigantes de hielo» para distinguirlos de los gigantes gaseosos.
+La atmósfera de Urano, aunque similar a la de Júpiter y Saturno en su composición primaria de hidrógeno y helio, contiene más «hielos», como agua, amoníaco y metano, junto con trazas de otros hidrocarburos.
+Es la atmósfera planetaria más fría del Sistema Solar, con una temperatura mínima de 49 K (-224,2 °C), y presenta una compleja estructura de nubes en capas, en la que se cree que el agua constituye las nubes más bajas y el metano la capa superior de nubes. 
+
+El interior de Urano está compuesto principalmente por hielo y roca.
+
+
+
+
+
+
+

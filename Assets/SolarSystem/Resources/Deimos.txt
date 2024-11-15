@@ -1,0 +1,42 @@
+﻿Características orbitales 
+Periapsis 23455,5 km 
+Apoapsis 23470,9 km 
+Semieje mayor 
+23463,2 km (6,92 radios de Marte) 
+Excentricidad 0,00033 
+Período orbital 1,263 d (30,312 h) 
+Velocidad orbital media 1,3513 km/s 
+Inclinación 0,93° (hacia el ecuador de Marte)  
+1,791° (respecto al plano local de Laplace)
+27,58° (respecto a la eclíptica) 
+Satélite de Marte  
+
+Características físicas
+
+Dimensiones 15 × 12,2 × 11 km 
+Radio medio 6,2 ± 0,18 km (0,97316 mTierra) 
+Superficie 495,1548 km2 (97,0755 µTierra) 
+Volumen 999,78 km3 (92,2979 nTierras) 
+Masa 1,4762×1015 kg (0,247179 nTierras) 
+Densidad media 1,471±0,166 g/cm3 
+Gravedad superficial 0,003 m/s2 (306 µg) 
+Velocidad de escape 5,556 m/s (20 km/h) 
+Período de rotación Síncrono 
+Albedo 0,068 ± 0,007 
+Temperatura ≈ 233 K 
+
+Deimos (designación sistemática: Marte II) es el más pequeño y exterior de los dos satélites naturales del planeta Marte, siendo el otro Fobos.
+Deimos tiene un radio medio de 6,2 km y tarda 30,3 horas en orbitar Marte.
+El nombre Deimos se pronuncia /ˈdaɪmɒs/ dy-mos, o a veces /ˈdiːməs/ dee-məs o como el griego Δείμος.
+En la mitología griega, Deimos era el hermano gemelo de Fobos y personificaba el terror.
+
+Deimos se encuentra a 23.460 km de Marte, mucho más lejos que la otra luna de Marte, Fobos.
+
+Deimos, al igual que la otra luna de Marte, Fobos, presenta espectros, albedos y densidades similares a los de un asteroide de tipo C o D.
+Como la mayoría de los cuerpos de su tamaño, Deimos es muy poco esférico, con unas dimensiones triaxiales de 15 × 12,2 × 11 km, lo que supone 0,56 veces el tamaño de Fobos.
+
+Deimos se compone de rocas ricas en material carbonoso, al igual que los asteroides de tipo C y los meteoritos condritos carbonosos.
+Tiene cráteres, pero su superficie es notablemente más lisa que la de Fobos, debido al relleno parcial de los cráteres con regolito.
+El regolito es muy poroso y tiene una densidad estimada por radar de sólo 1,471 g/cm3. Los dos cráteres más grandes, Swift y Voltaire, miden unos 3 km de diámetro cada uno.
+
+Tiene una velocidad de escape de 5,6 m/s y una magnitud aparente de 12,45.

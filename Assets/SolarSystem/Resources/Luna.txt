@@ -1,0 +1,27 @@
+﻿Perigeo 362600 km (356400-370400 km) 
+Apogeo 405400 km (404000-406700 km) 
+Semieje mayor 384399 km (0,00257 UA) 
+Excentricidad 0,0549 
+Período orbital 27,321661 d 
+(27 d 7 h 43,19 min 11,5 s)
+Período sinódico 29,530589 d 
+(29 d 12 h 44 min 2,9 s)
+Velocidad orbital media 1,022 km/s 
+Inclinación 5,145° respecto a la eclíptica 
+Longitud del nodo ascendente 
+Retroceso de una revolución en 18,6 años 
+Argumento del perigeo 
+avanzando una revolución en 8,85 años 
+Satélite de la Tierra 
+
+La Luna es el único satélite natural de la Tierra.
+Es uno de los mayores satélites naturales del Sistema Solar y, entre los satélites planetarios, el mayor en relación con el tamaño del planeta al que orbita (su primario).
+Es el segundo satélite más denso de los que se conocen (después de Io, satélite de Júpiter).
+
+Se cree que la Luna se formó hace aproximadamente 4.500 millones de años, no mucho después que la Tierra.
+Existen varias hipótesis sobre su origen; la explicación más aceptada es que la Luna se formó a partir de los restos que quedaron tras un impacto gigante entre la Tierra y un cuerpo del tamaño de Marte llamado Theia.
+
+La Luna se encuentra en rotación sincrónica con la Tierra, mostrando siempre la misma cara, con su lado cercano marcado por mareas volcánicas oscuras que rellenan entre las antiguas tierras altas brillantes de la corteza y los prominentes cráteres de impacto.
+Es el segundo objeto celeste regularmente visible más brillante en el cielo de la Tierra después del Sol, medido por la iluminancia sobre la superficie terrestre.
+Aunque puede parecer de un blanco muy brillante, su superficie es en realidad oscura, con una reflectancia apenas superior a la del asfalto desgastado.
+Su prominencia en el cielo y su ciclo regular de fases han hecho de la Luna, desde la antigüedad, una importante influencia cultural en el lenguaje, los calendarios, el arte y la mitología.
